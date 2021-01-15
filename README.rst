@@ -11,7 +11,7 @@ The commit message history of files from that repository is included in their in
 License
 =======
 
-The Salish Sea NEMO model tide boundary condition files are copyright 2013-2017 by the `Salish Sea MEOPAR Project Contributors`_ and The University of British Columbia.
+The Salish Sea NEMO model tide boundary condition files are copyright 2013-2021 by the `Salish Sea MEOPAR Project Contributors`_ and The University of British Columbia.
 
 .. _Salish Sea MEOPAR Project Contributors: https://bitbucket.org/salishsea/docs/src/tip/CONTRIBUTORS.rst
 
